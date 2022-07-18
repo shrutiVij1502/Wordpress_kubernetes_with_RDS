@@ -37,3 +37,5 @@ use the command ``` select * from wp_users ; ```
 ![image](https://user-images.githubusercontent.com/67600604/179460008-8bf5365d-c1ac-4283-a6c4-dc5b65b6b17e.png)
 
 All the users are mentions here , that we creted at the time of wordpress setup.
+
+![image](https://user-images.githubusercontent.com/67600604/179460860-7edc6acd-624e-42a0-b1d2-cc43127156ec.png)
