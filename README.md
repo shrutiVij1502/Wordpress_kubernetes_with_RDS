@@ -1,4 +1,4 @@
-# Wordpress_kubernetes_with_RDS
+# Wordpress kubernetes with RDS
 ### Setup the master slave configurations same as I mentioned in the https://github.com/devops-team-poc/Setup-kubernetes-cluster , but in this, I used the mysql Database for the storage and in this task we will use RDS in place of the MySql database
 
 Steps
