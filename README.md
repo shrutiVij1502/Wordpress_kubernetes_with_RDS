@@ -38,4 +38,13 @@ use the command ``` select * from wp_users ; ```
 
 All the users are mentions here , that we creted at the time of wordpress setup.
 
+For the Backup - Select the & days option while creating the Database and we can modify this even after the creation of the database 
+
+![image](https://user-images.githubusercontent.com/67600604/179716105-6bd2e4b8-c4ff-4fa0-9c61-80c24da80fe5.png)
+
+and if we want to change the version of the Databse after the Creation, Go to the databse and click on the database , you will find the Option of version chnage at the top 
+
+![image](https://user-images.githubusercontent.com/67600604/179715933-680f7aa2-288b-4ec2-95ba-1a41ac94ea80.png)
+
+
 ![image](https://user-images.githubusercontent.com/67600604/179460860-7edc6acd-624e-42a0-b1d2-cc43127156ec.png)
