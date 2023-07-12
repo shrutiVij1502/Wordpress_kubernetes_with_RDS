@@ -1,9 +1,9 @@
-# Wordpress kubernetes with RDS
+# Wordpress kubernetes with RDS (AWS SQL Database)
 ### Setup the master slave configurations same as I mentioned in the https://github.com/devops-team-poc/Setup-kubernetes-cluster , but in this, I used the mysql Database for the storage and in this task we will use RDS in place of the MySql database
 
 Steps
 
-- Then, will create the RDS Databse , Go to the AWS console -> RDS -> Create Database -> apply the Public access and Password for the same and other essential details mentions there, I have setup for the t2 micro size and taken the Mysql for the Database 
+- Then, will create the RDS Databse , Go to the **AWS console** -> RDS -> Create Database -> apply the Public access and Password for the same and other essential details mentions there, I have setup for the t2 micro size and taken the Mysql for the Database 
 
 ![image](https://user-images.githubusercontent.com/67600604/179456120-af28c657-dee8-4872-8715-54a76b3eada2.png)
 
